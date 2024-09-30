@@ -47,6 +47,7 @@ const FeaturedProducts = () => {
                                                     alt="Image featured"
                                                 />
 
+                                                <div>HOLA SOY YO</div>
                                             </CardContent>
                                         </Card>
                                     </div>
